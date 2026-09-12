@@ -10,10 +10,82 @@
     "monday": [
       {
         "pair": 1,
-        "disciplines": ["Биология с курсом ген. чел."],
-        "week_type": "every",
-        "subGroup": "п/г 1",
-        "place": "А423"
+        "even": [],
+        "uneven": [],
+        "every": [
+          {
+            "discipline": "Биология с курсом ген. чел.",
+            "typeLesson": "",
+            "subGroup": "п/г 1",
+            "place": "А423"
+          }
+        ]
+      },
+      {
+        "pair": 2,
+        "even": [],
+        "uneven": [],
+        "every": [
+          {
+            "discipline": "Химия",
+            "typeLesson": "пр",
+            "subGroup": "п/г 1",
+            "place": "А514"
+          }
+        ]
+      },
+      {
+        "pair": 3,
+        "even": [
+          {
+            "discipline": "Латинский язык",
+            "typeLesson": "лек",
+            "subGroup": "",
+            "place": "А539"
+          }
+        ],
+        "uneven": [
+          {
+            "discipline": " Введение в профессиональную деятельность. Этика и деонтология (биоэтика)",
+            "typeLesson": "лек",
+            "subGroup": "",
+            "place": "А539"
+          }
+        ],
+        "every": []
+      },
+      {
+        "pair": 4,
+        "even": [
+          {
+            "discipline": "ТОИУ",
+            "typeLesson": "п/г 3",
+            "subGroup": "п/г 1",
+            "place": "А30"
+          }
+        ],
+        "uneven": [],
+        "every": [
+          {
+            "discipline": "Иностранный язык",
+            "typeLesson": "",
+            "subGroup": "п/г 1",
+            "place": "А516"
+          }
+        ]
+      },
+      {
+        "pair": 5,
+        "even": [],
+        "uneven": [],
+        "every": [
+          {
+            "discipline": "Иностранный язык",
+            "typeLesson": "",
+            "subGroup": "п/г 1",
+            "place": "А516"
+          }
+        ]
       }
     ]
   }
