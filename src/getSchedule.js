@@ -25,7 +25,6 @@ export default class GetSchedule {
         console.log("Найдено файлов:", files.length);
         console.log(files);
 
-        
         return files;
       } else {
         console.error("error getSchedule!");
@@ -37,9 +36,9 @@ export default class GetSchedule {
     }
   }
 
-  async downloadSchedule(file) {
-    file.forEach(async (e) => {
-        await 
-    })
-  }
+  // async downloadSchedule(file) {
+  //   file.forEach(async (e) => {
+  //       await
+  //   })
+  // }
 }

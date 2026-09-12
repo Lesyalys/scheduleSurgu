@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "period": "2026-2027 осенний",
+    "faculty": "медицинский",
+    "speciality": "31.05.01 Лечебное дело",
+    "course": 1,
+    "groups": ["501-61"]
+  },
+  "schedule": {
+    "monday": [
+      {
+        "pair": 1,
+        "disciplines": ["Биология с курсом ген. чел."],
+        "week_type": "every",
+        "subGroup": "п/г 1",
+        "place": "А423"
+      }
+    ]
+  }
+}
