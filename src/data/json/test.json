@@ -29,7 +29,7 @@
           {
             "discipline": "Химия",
             "typeLesson": "пр",
-            "subGroup": "п/г 1",
+            "subGroup": "",
             "place": "А514"
           }
         ]
@@ -46,7 +46,7 @@
         ],
         "uneven": [
           {
-            "discipline": " Введение в профессиональную деятельность. Этика и деонтология (биоэтика)",
+            "discipline": "Введение в профессиональную деятельность. Этика и деонтология (биоэтика)",
             "typeLesson": "лек",
             "subGroup": "",
             "place": "А539"
@@ -59,8 +59,8 @@
         "even": [
           {
             "discipline": "ТОИУ",
-            "typeLesson": "п/г 3",
-            "subGroup": "п/г 1",
+            "typeLesson": "",
+            "subGroup": "п/г 3",
             "place": "А30"
           }
         ],
@@ -80,10 +80,10 @@
         "uneven": [],
         "every": [
           {
-            "discipline": "Иностранный язык",
+            "discipline": "ТОИУ",
             "typeLesson": "",
-            "subGroup": "п/г 1",
-            "place": "А516"
+            "subGroup": "п/г 3",
+            "place": "А30"
           }
         ]
       }
