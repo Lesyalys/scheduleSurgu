@@ -25,7 +25,7 @@ export default class ParserSchedule {
       };
     });
 
-    // saveJson(this.pages);
+    this.saveJson(this.pages[0].row);
     this.pages.forEach((e) => console.log(e));
     return this.pages;
   }
