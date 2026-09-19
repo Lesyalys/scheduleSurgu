@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "period": "string",
+    "faculty": "string",
+    "speciality": "string",
+    "course": "number",
+    "groups": ["string"]
+  },
+  "schedule": {
+    "monday": [
+      {
+        "pair": "number",
+        "even": [
+          {
+            "discipline": "string",
+            "typeLesson": "string",
+            "subGroup": "string",
+            "place": "string"
+          }
+        ],
+        "uneven": [
+          {
+            "discipline": "string",
+            "typeLesson": "string",
+            "subGroup": "string",
+            "place": "string"
+          }
+        ],
+        "every": [
+          {
+            "discipline": "string",
+            "typeLesson": "string",
+            "subGroup": "string",
+            "place": "string"
+          }
+        ]
+      }
+    ],
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": []
+  }
+}
