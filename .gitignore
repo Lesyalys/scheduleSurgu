@@ -9,7 +9,8 @@ pnpm-debug.log*
 .env
 .env.local
 .env.*.local
-
+.venv
+.kilo
 
 .DS_Store
 Thumbs.db
