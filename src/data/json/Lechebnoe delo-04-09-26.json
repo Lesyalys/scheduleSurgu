@@ -1,0 +1,2199 @@
+{
+  "meta": {
+    "period": "2026-2027 осенний",
+    "faculty": "медицинский",
+    "speciality": "31.05.01 Лечебное дело",
+    "course": 1,
+    "groups": ["501-61", "501-62", "501-63", "501-64", "501-65"]
+  },
+  "groups": [
+    {
+      "name": "501-62",
+      "schedule": {
+        "monday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А24"
+              },
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А423"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А24"
+              },
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А423"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [
+              {
+                "discipline": "Латинский язык",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А539"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Введение в профессиональную деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А539"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 4,
+            "even": [
+              {
+                "discipline": "Латинский язык",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А518"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А22"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Латинский язык",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А518"
+              }
+            ]
+          }
+        ],
+        "tuesday": [
+          {
+            "pair": 1,
+            "even": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А22"
+              }
+            ],
+            "uneven": [],
+            "every": []
+          },
+          {
+            "pair": 2,
+            "even": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "",
+                "subGroup": "п/г1",
+                "place": "А124"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "",
+                "subGroup": "п/г2",
+                "place": "А124"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Русский язык и культура речи",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А436"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А436"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": []
+          }
+        ],
+        "wednesday": [
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Физ. культура и спорт. Элект. дисциплины по физ. культуре и спорту",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "С4"
+              },
+              {
+                "discipline": "История России",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ]
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ]
+          },
+          {
+            "pair": 6,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Введение в проф. деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ]
+          }
+        ],
+        "thursday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А423"
+              },
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 3",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А423"
+              },
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 3",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Иностранный язык",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А516"
+              },
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 3",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А24"
+              }
+            ]
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А24"
+              }
+            ]
+          }
+        ],
+        "friday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Теоретические основы изучения ухода за больным",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А2Б"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А2Б"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Биология с курсом генетики человека",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А436"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 3,
+            "even": [
+              {
+                "discipline": "Философия",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Введение в проф. деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Иностранный язык",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А517"
+              }
+            ]
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А30"
+              }
+            ]
+          }
+        ],
+        "saturday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А302"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А30"
+              },
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "",
+                "subGroup": "п/г2",
+                "place": "А302"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А30"
+              },
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Элективные дисциплины по физической культуре и спорту",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "С"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "501-62",
+      "schedule": {
+        "monday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А24"
+              },
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А423"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А24"
+              },
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А423"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [
+              {
+                "discipline": "Латинский язык",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А539"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Введение в профессиональную деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А539"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 4,
+            "even": [
+              {
+                "discipline": "Латинский язык",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А518"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А22"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Латинский язык",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А518"
+              }
+            ]
+          }
+        ],
+        "tuesday": [
+          {
+            "pair": 1,
+            "even": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А22"
+              }
+            ],
+            "uneven": [],
+            "every": []
+          },
+          {
+            "pair": 2,
+            "even": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "",
+                "subGroup": "п/г1",
+                "place": "А124"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "",
+                "subGroup": "п/г2",
+                "place": "А124"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Русский язык и культура речи",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А436"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А436"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": []
+          }
+        ],
+        "wednesday": [
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Физ. культура и спорт. Элект. дисциплины по физ. культуре и спорту",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "С4"
+              },
+              {
+                "discipline": "История России",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ]
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ]
+          },
+          {
+            "pair": 6,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Введение в проф. деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ]
+          }
+        ],
+        "thursday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А423"
+              },
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 3",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А423"
+              },
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 3",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Иностранный язык",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А516"
+              },
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 3",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А24"
+              }
+            ]
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А24"
+              }
+            ]
+          }
+        ],
+        "friday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Теоретические основы изучения ухода за больным",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А2Б"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А2Б"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Биология с курсом генетики человека",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А436"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 3,
+            "even": [
+              {
+                "discipline": "Философия",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Введение в проф. деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Иностранный язык",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А517"
+              }
+            ]
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А30"
+              }
+            ]
+          }
+        ],
+        "saturday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А302"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А30"
+              },
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "",
+                "subGroup": "п/г2",
+                "place": "А302"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А30"
+              },
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Элективные дисциплины по физической культуре и спорту",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "С"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "501-63",
+      "schedule": {
+        "monday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [
+              {
+                "discipline": "Введение в профессиональную деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А636"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Латинский язык",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А636"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А22"
+              },
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 3",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": []
+          }
+        ],
+        "tuesday": [
+          {
+            "pair": 1,
+            "even": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "",
+                "subGroup": "п/г1",
+                "place": "А124"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А22"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Русский язык и культура речи",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Иностранный язык",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А517"
+              },
+              {
+                "discipline": "Иностранный язык",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А518"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А30"
+              },
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А423"
+              }
+            ]
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А30"
+              },
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А30"
+              }
+            ]
+          }
+        ],
+        "wednesday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Физич. культура и спорт. Элект. дисциплины по физ. культуре и спорту",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "С3"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А636"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А436"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А613"
+              }
+            ]
+          },
+          {
+            "pair": 5,
+            "even": [
+              {
+                "discipline": "Философия",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А504"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "История России",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А504"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 6,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 3",
+                "place": "А30"
+              }
+            ]
+          }
+        ],
+        "thursday": [
+          {
+            "pair": 1,
+            "even": [
+              {
+                "discipline": "Введение в проф. деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "А613"
+              }
+            ],
+            "uneven": [],
+            "every": []
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Введение в проф. деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "А613"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А25"
+              },
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "",
+                "subGroup": "п/г2",
+                "place": "А301"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А423"
+              }
+            ]
+          }
+        ],
+        "friday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Теоретические основы изучения ухода за больным",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А2Б"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [
+              {
+                "discipline": "Биология с курсом генетики человека",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А436"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А2Б"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А316"
+              },
+              {
+                "discipline": "Латинский язык",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А604"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": []
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Элективные дисциплины по физической культуре и спорту",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "С"
+              }
+            ]
+          }
+        ],
+        "saturday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А24"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Латинский язык",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А518"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "501-64",
+      "schedule": {
+        "monday": [
+          {
+            "pair": 1,
+            "even": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "",
+                "subGroup": "п/г1",
+                "place": "А122"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А22"
+              }
+            ],
+            "every": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "",
+                "subGroup": "п/г2",
+                "place": "А122"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [
+              {
+                "discipline": "Введение в профессиональную деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А636"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Латинский язык",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А636"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А423"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": []
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": []
+          }
+        ],
+        "tuesday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Введение в проф. деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "А504"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А302"
+              },
+              {
+                "discipline": "Иностранный язык",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А518"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Иностранный язык",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А516"
+              },
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А423"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А24"
+              },
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "",
+                "subGroup": "п/г2",
+                "place": "А302"
+              }
+            ]
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": []
+          }
+        ],
+        "wednesday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А24"
+              },
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А22"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Русский язык и культура речи",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А515"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А636"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А436"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": []
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Физич. культура и спорт. Элект. дисциплины по физ. культуре и спорту",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "С"
+              }
+            ]
+          }
+        ],
+        "thursday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Латинский язык",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А414"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [
+              {
+                "discipline": "Философия",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "История России",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А30"
+              }
+            ]
+          }
+        ],
+        "friday": [
+          {
+            "pair": 1,
+            "even": [
+              {
+                "discipline": "Введение в проф. деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "А613"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Теоретические основы изучения ухода за больным",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А26"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 2,
+            "even": [
+              {
+                "discipline": "Биология с курсом генетики человека",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А436"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А26"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Элективные дисциплины по физической культуре и спорту",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "С4"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": []
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": []
+          }
+        ],
+        "saturday": [
+          {
+            "pair": 1,
+            "even": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А30"
+              }
+            ],
+            "uneven": [],
+            "every": []
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Латинский язык",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А517"
+              },
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 3",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 3",
+                "place": "А30"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "501-65",
+      "schedule": {
+        "monday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": []
+          },
+          {
+            "pair": 2,
+            "even": [
+              {
+                "discipline": "Введение в профессиональную деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А636"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Латинский язык",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А636"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А310"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "",
+                "subGroup": "п/г1",
+                "place": "А124"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "",
+                "subGroup": "п/г2",
+                "place": "А124"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 5,
+            "even": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А22"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А22"
+              }
+            ],
+            "every": []
+          }
+        ],
+        "tuesday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Русский язык и культура речи",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А514"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Введение в проф. деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "А504"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Физич. культура и спорт. Элект. дисциплины по физ. культуре и спорту",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "С"
+              }
+            ]
+          }
+        ],
+        "wednesday": [
+          {
+            "pair": 1,
+            "even": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А30"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А30"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А24"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [
+              {
+                "discipline": "Химия",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А636"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А436"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 4,
+            "even": [
+              {
+                "discipline": "Философия",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А636"
+              }
+            ],
+            "uneven": [],
+            "every": []
+          },
+          {
+            "pair": 5,
+            "even": [
+              {
+                "discipline": "История России",
+                "typeLesson": "пр",
+                "subGroup": "",
+                "place": "А613"
+              }
+            ],
+            "uneven": [],
+            "every": []
+          }
+        ],
+        "thursday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А25"
+              },
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А424"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А25"
+              },
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А424"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А424"
+              },
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 3",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Биология с курсом ген. чел.",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А424"
+              },
+              {
+                "discipline": "ТОИУ",
+                "typeLesson": "",
+                "subGroup": "п/г 3",
+                "place": "А30"
+              }
+            ]
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": []
+          }
+        ],
+        "friday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [
+              {
+                "discipline": "Теоретические основы изучения ухода за больным",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А2Б"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 2,
+            "even": [
+              {
+                "discipline": "Биология с курсом генетики человека",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А436"
+              }
+            ],
+            "uneven": [
+              {
+                "discipline": "Анатомия человека",
+                "typeLesson": "лек",
+                "subGroup": "",
+                "place": "А2Б"
+              }
+            ],
+            "every": []
+          },
+          {
+            "pair": 3,
+            "even": [
+              {
+                "discipline": "Введение в проф. деятельность. Этика и деонтология (биоэтика)",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "А539"
+              }
+            ],
+            "uneven": [],
+            "every": []
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Элективные дисциплины по физической культуре и спорту",
+                "typeLesson": "",
+                "subGroup": "",
+                "place": "С"
+              }
+            ]
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": []
+          }
+        ],
+        "saturday": [
+          {
+            "pair": 1,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Иностранный язык",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А516"
+              }
+            ]
+          },
+          {
+            "pair": 2,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "",
+                "subGroup": "п/г 1",
+                "place": "А316"
+              },
+              {
+                "discipline": "Иностранный язык",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А516"
+              }
+            ]
+          },
+          {
+            "pair": 3,
+            "even": [],
+            "uneven": [],
+            "every": [
+              {
+                "discipline": "Латинский язык",
+                "typeLesson": "",
+                "subGroup": "п/г 2",
+                "place": "А518"
+              },
+              {
+                "discipline": "Медицинская физика",
+                "typeLesson": "",
+                "subGroup": "п/г2",
+                "place": "А316"
+              }
+            ]
+          },
+          {
+            "pair": 4,
+            "even": [],
+            "uneven": [],
+            "every": []
+          },
+          {
+            "pair": 5,
+            "even": [],
+            "uneven": [],
+            "every": []
+          }
+        ]
+      }
+    }
+  ]
+}

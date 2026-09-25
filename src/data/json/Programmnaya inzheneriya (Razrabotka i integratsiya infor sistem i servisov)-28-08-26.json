@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "period": "2026-2027",
+    "faculty": "политехнический",
+    "speciality": "09.04.04 Программная инженерия",
+    "course": 1,
+    "groups": ["609-61м"]
+  },
+  "schedule": {
+    "monday": [
+      {
+        "pair": 6,
+        "every": [
+          {
+            "discipline": "Учебная практика, технологическая (проектно-технологическая) практика, ЭОиДОТ",
+            "typeLesson": "",
+            "subGroup": "",
+            "place": ""
+          }
+        ]
+      },
+      {
+        "pair": 7,
+        "every": [
+          {
+            "discipline": "История и методология науки (пр), ЭОиДОТ//Инструменты и технологии web-разработки (лек), ЭОиДОТ",
+            "typeLesson": "",
+            "subGroup": "",
+            "place": ""
+          }
+        ]
+      },
+      {
+        "pair": 8,
+        "every": [
+          {
+            "discipline": "Основы научных исследований в области информационных технологий (лек)/(пр), ЭОиДОТ",
+            "typeLesson": "",
+            "subGroup": "",
+            "place": ""
+          }
+        ]
+      }
+    ],
+    "tuesday": [
+      {
+        "pair": 6,
+        "every": [
+          {
+            "discipline": "Практикум по межкультурной коммуникации (пр), ЭОиДОТ",
+            "typeLesson": "",
+            "subGroup": "",
+            "place": ""
+          }
+        ]
+      },
+      {
+        "pair": 7,
+        "every": [
+          {
+            "discipline": "Статистическая обработка и визуализация данных на Python (лек)/(лаб), ЭОиДОТ",
+            "typeLesson": "",
+            "subGroup": "",
+            "place": ""
+          }
+        ]
+      },
+      {
+        "pair": 8,
+        "every": [
+          {
+            "discipline": "//Статистическая обработка и визуализация данных на Python (лаб), ЭОиДОТ",
+            "typeLesson": "",
+            "subGroup": "",
+            "place": ""
+          }
+        ]
+      }
+    ],
+    "wednesday": [
+      {
+        "pair": 6,
+        "every": [
+          {
+            "discipline": "Программирование на языке JavaScript (пр), ЭОиДОТ",
+            "typeLesson": "",
+            "subGroup": "",
+            "place": ""
+          }
+        ]
+      },
+      {
+        "pair": 7,
+        "every": [
+          {
+            "discipline": "Инструменты и технологии web-разработки (пр), ЭОиДОТ",
+            "typeLesson": "",
+            "subGroup": "",
+            "place": ""
+          }
+        ]
+      }
+    ],
+    "thursday": [
+      {
+        "pair": 6,
+        "every": [
+          {
+            "discipline": "ФТД: Системы менеджмента качества (лек), ЭОиДОТ// Программирование на языке JavaScript (лек), ЭОиДОТ",
+            "typeLesson": "",
+            "subGroup": "",
+            "place": ""
+          }
+        ]
+      },
+      {
+        "pair": 7,
+        "every": [
+          {
+            "discipline": "ФТД: Системы менеджмента качества (пр), ЭОиДОТ//",
+            "typeLesson": "",
+            "subGroup": "",
+            "place": ""
+          }
+        ]
+      }
+    ],
+    "friday": [
+      {
+        "pair": 1,
+        "every": [
+          {
+            "discipline": "День самостоятельной работы",
+            "typeLesson": "",
+            "subGroup": "",
+            "place": ""
+          }
+        ]
+      }
+    ],
+    "saturday": []
+  }
+}
